@@ -15,7 +15,7 @@
 
       *** Optimal Performance was reached with 10 newtons and 0.6 meters ***
 
-      Average Reward Per Episode ranged between 100-120 with these parameters set.k
+      Average Reward Per Episode ranged between 100-120 with these parameters set
   
 
 Results -> The optimal velocity was 10, the optimal track_width was 0.6 out of the tests we ran
