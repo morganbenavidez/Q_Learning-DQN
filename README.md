@@ -1,5 +1,8 @@
 ### Reinforcement Learning Project for Grad Level Data Mining and Machine Learning
 
+[![DQN](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/fBLAi6L_moY)
+
+
 2a. You can do it with just Q_Learning, but Deep Learning definitely improves performance
 
 2b. There is a lot of improvement with DRL (DQN), you can see from the evaluation charts. 
@@ -21,4 +24,6 @@
 The higher the velocity and wider the track, the more the reward per episode seems to stabilize - at least for DQN
 
 Results -> The optimal velocity was 10, the optimal track_width was 0.6 out of the tests we ran
+
+
 
