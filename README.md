@@ -1,11 +1,13 @@
 ### Reinforcement Learning Project for Grad Level Data Mining and Machine Learning
 
-### DQN
+We created a simulation of the various principles. These are videos from our experiments.
+
+### Q-Learning
+[![Q-Learning](https://img.youtube.com/vi/hhrLYEw1LoE/0.jpg)](https://youtu.be/hhrLYEw1LoE)
+
+### Deep Q-Networks
 [![Deep Q-Networks](https://img.youtube.com/vi/fBLAi6L_moY/0.jpg)](https://youtu.be/fBLAi6L_moY)
 
-
-### QL
-[![Q-Learning](https://img.youtube.com/vi/hhrLYEw1LoE/0.jpg)](https://youtu.be/hhrLYEw1LoE)
 
 
 2a. You can do it with just Q_Learning, but Deep Learning definitely improves performance
