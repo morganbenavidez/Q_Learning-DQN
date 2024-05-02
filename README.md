@@ -2,6 +2,7 @@
 
 [DQN](https://youtu.be/fBLAi6L_moY)
 
+[QL](https://youtu.be/hhrLYEw1LoE)
 
 2a. You can do it with just Q_Learning, but Deep Learning definitely improves performance
 
