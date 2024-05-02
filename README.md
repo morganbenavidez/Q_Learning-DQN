@@ -9,6 +9,16 @@ We created a simulation of the various principles. These are videos from our exp
 [![Deep Q-Networks](https://img.youtube.com/vi/fBLAi6L_moY/0.jpg)](https://youtu.be/fBLAi6L_moY)
 
 
+When you're looking at the charts:
+
+    CR_Training = Cumulative Reward during training
+    EL_Training = Episode Lengths during training
+    CR_Evaluation = Cumulative Reward during model evaluation (after training)
+    vel = velocity of cart
+    track = width of track in one direction from center
+
+These are good metrics to be able to extract performance measures.
+
 
 2a. You can do it with just Q_Learning, but Deep Learning definitely improves performance
 
