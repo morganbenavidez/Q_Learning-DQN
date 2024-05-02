@@ -1,6 +1,6 @@
 ### Reinforcement Learning Project for Grad Level Data Mining and Machine Learning
 
-[![DQN](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/fBLAi6L_moY)
+[![DQN]](https://youtu.be/fBLAi6L_moY)
 
 
 2a. You can do it with just Q_Learning, but Deep Learning definitely improves performance
