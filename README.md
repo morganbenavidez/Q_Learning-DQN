@@ -23,7 +23,14 @@ The higher the velocity and wider the track, the more the reward per episode see
 
 Optimal Results -> The optimal velocity was 10, and the optimal track_width was 0.6 out of the tests we ran
 
-
+    ***Variables for Interpreting the Performance Measures***
+    
+    CR_Training = Cumulative Reward during training
+    EL_Training = Episode Lengths during training
+    CR_Evaluation = Cumulative Reward during model evaluation (after training)
+    vel = velocity of cart
+    track = width of the track in one direction from the center
+    
 Videos from our experiments:
 
 ### Q-Learning
@@ -32,13 +39,7 @@ Videos from our experiments:
 ### Deep Q-Networks
 [![Deep Q-Networks](https://img.youtube.com/vi/fBLAi6L_moY/0.jpg)](https://youtu.be/fBLAi6L_moY)
 
-    ***Variables for Interpreting the Performance Measures***
-    
-    CR_Training = Cumulative Reward during training
-    EL_Training = Episode Lengths during training
-    CR_Evaluation = Cumulative Reward during model evaluation (after training)
-    vel = velocity of cart
-    track = width of the track in one direction from the center
+
 
 
 
